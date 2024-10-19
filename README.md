@@ -1,4 +1,4 @@
-![logo](https://github.com/Shiwangii/Shiwangii/blob/main/github-header-image%20(2).png)
+![logo](https://github.com/Shiwangii/Shiwangii/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Shiwangi Maurya</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/1173805290/photo/software-developer-freelancer-woman-working-at-night.jpg?s=2048x2048&w=is&k=20&c=Qp51eaOlxbvnYnAXTBPrn2OzvBQvmqlTIR6nklnQrdw=">
